@@ -1,8 +1,8 @@
-.wrapper {
+
+ @media only screen and (min-width: 1108px) {
+   .wrapper {
   width: 90%;
 }
- 
-@media only screen and (min-width: 1108px) {
   .social { width: 82px; }
 }
 
